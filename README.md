@@ -1,0 +1,2 @@
+# premium-pmc-enamel-001-pmc-and-enamel-combination-log
+Stop relying on scattered notes and memory to recall which PMC and enamel combination worked best for each patient. This Notion template turns your clinical experience into a searchable, actionable database.  It solves the problem of inconsistent documentation and difficult retrieval of past case details. With structured fields for material, prepar
